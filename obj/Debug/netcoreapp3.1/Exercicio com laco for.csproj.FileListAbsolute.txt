@@ -1,0 +1,13 @@
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicio com laco for\bin\Debug\netcoreapp3.1\Exercicio com laco for.exe
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicio com laco for\bin\Debug\netcoreapp3.1\Exercicio com laco for.deps.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicio com laco for\bin\Debug\netcoreapp3.1\Exercicio com laco for.runtimeconfig.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicio com laco for\bin\Debug\netcoreapp3.1\Exercicio com laco for.runtimeconfig.dev.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicio com laco for\bin\Debug\netcoreapp3.1\Exercicio com laco for.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicio com laco for\bin\Debug\netcoreapp3.1\Exercicio com laco for.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicio com laco for\obj\Debug\netcoreapp3.1\Exercicio com laco for.csprojAssemblyReference.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicio com laco for\obj\Debug\netcoreapp3.1\Exercicio com laco for.AssemblyInfoInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicio com laco for\obj\Debug\netcoreapp3.1\Exercicio com laco for.AssemblyInfo.cs
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicio com laco for\obj\Debug\netcoreapp3.1\Exercicio com laco for.csproj.CoreCompileInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicio com laco for\obj\Debug\netcoreapp3.1\Exercicio com laco for.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicio com laco for\obj\Debug\netcoreapp3.1\Exercicio com laco for.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicio com laco for\obj\Debug\netcoreapp3.1\Exercicio com laco for.genruntimeconfig.cache
